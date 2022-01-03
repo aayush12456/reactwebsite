@@ -1,0 +1,205 @@
+@media (min-width:300px) and (max-width:500px){
+    .b1{
+        position: absolute;
+        font-size: 21px;
+        left: 36.5%;
+        top: 25%;
+        color:purple;
+        font-weight: bold;
+    }
+    .b2{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 30%;
+        color: #FF6600;
+    }
+    .b3{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 44.1%;
+        color:black;
+        width: 90%;
+    }
+    .b4{
+        position: absolute;
+       width:80% ;
+        height: 30%;
+        top: 86.5%;
+        left: 10%;
+        
+    }
+    .b5{
+        position: absolute;
+        
+        height: 30%;
+        top: 119%;
+        left: 10%;
+        font-size: 17px;
+        
+    }
+  
+}
+@media (min-width:500px) and (max-width:800px){
+    .b1{
+        position: absolute;
+        font-size: 26px;
+        left: 39.5%;
+        top: 26%;
+        color:purple;
+        font-weight: bold;
+    }
+    .b2{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 33.5%;
+        color: #FF6600;
+    }
+    .b3{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 46%;
+        color:black;
+        width: 90%;
+    }
+    .b4{
+        position: absolute;
+       width:65% ;
+        height: 30%;
+        top: 79.5%;
+        left: 16.5%;  
+    }
+    .b5{
+        position: absolute; 
+      height: 30%;
+        top: 112%;
+        left: 7%;
+        font-size: 18px;
+        color: black;
+    }   
+}
+@media (min-width:800px) and (max-width:1025px){
+    .b1{
+        position: absolute;
+        font-size: 40px;
+        left: 39.3%;
+        top: 31.5%;
+        color:purple;
+        font-weight: bold;
+    }
+    .b2{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 41.5%;
+        color: #FF6600;
+    }
+    .b3{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 60%;
+        color:black;
+        width: 90%;
+    }
+    .b4{
+        position: absolute;
+       width:55% ;
+        height: 30%;
+        top: 109.5%;
+        left: 20.5%;  
+    }
+    .b5{
+        position: absolute; 
+      height: 30%;
+        top: 143%;
+        left: 7%;
+        font-size: 27.5px;
+        color: black;
+    }
+}
+@media (min-width:1025px) and (max-width:1281px){
+    .b1{
+        position: absolute;
+        font-size: 40px;
+        left: 39.3%;
+        top: 31.5%;
+        color:purple;
+        font-weight: bold;
+    }
+    .b2{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 41.5%;
+        color: #FF6600;
+    }
+    .b3{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top:56.5%;
+        color:black;
+        width: 90%;
+    }
+    .b4{
+        position: absolute;
+       width:40% ;
+        height: 30%;
+        top: 103%;
+        left: 29%;  
+    }
+    .b5{
+        position: absolute; 
+      height: 30%;
+        top: 138%;
+        left: 7%;
+        font-size: 27.5px;
+        color: black;
+    }
+}
+@media (min-width:1281px) {
+    .b1{
+        position: absolute;
+        font-size: 40px;
+        left: 5%;
+        top: 29%;
+        color:purple;
+        font-weight: bold;
+    }
+    .b2{
+        position: absolute;
+        font-size: 27.5px;
+        left: 5%;
+        top: 36.5%;
+        color: #FF6600;
+        width: 60%;
+    }
+    .b3{
+        position: absolute;
+        font-size: 25px;
+        left: 5%;
+        top:51.5%;
+        color:black;
+        width: 50%;
+    }
+    .b4{
+        position: absolute;
+       width:25% ;
+        height: 40%;
+        top: 51%;
+        left: 60%;  
+    }
+    .b5{
+        position: absolute; 
+      height: 30%;
+        top: 86%;
+        left: 5%;
+        font-size: 25px;
+        color: black;
+        width: 50%;
+    }
+}

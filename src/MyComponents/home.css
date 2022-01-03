@@ -1,0 +1,398 @@
+@media (min-width:300px) and (max-width:500px){
+    .winimg{
+        position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 26%;
+        left: 10%;
+        
+    }
+    .playimg{
+        position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 58%;
+        left: 10%;
+        
+    }
+    .shakeimg{
+        position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 90%;
+        left: 10%;
+        
+    }
+    .a1{
+        position: absolute;
+        top: 125%;
+        font-size:21px ;
+        left:7% ;
+        font-weight: bold;
+        width: 90%;
+        color: purple;
+    }
+    .a2{
+        position: absolute;
+        top:129.5% ;
+        font-size: 17px;
+        left: 7%;
+        color:#FF6600;
+        width: 90%;
+    
+    }
+    .a3{
+        position: absolute;
+        top:140% ;
+        font-size: 17px;
+        left: 7%;
+        color:black;
+        width: 90%;
+    }
+    .a4{
+        position: absolute;
+        top:170% ;
+        font-size: 17px;
+        left: 7%;
+        color:black;
+        width: 90%;
+    }
+    .a5{
+        position: absolute;
+        top:187.5% ;
+        font-size: 17px;
+        left: 7%;
+        color:black;
+        width: 90%;
+    }
+    .a6{
+        position: absolute;
+        top:199% ;
+        font-size: 17px;
+        left: 7%;
+        color:black;
+        width: 90%;
+    }
+    .a7{
+        position: absolute;
+        top:213.5% ;
+        font-size: 17px;
+        left: 7%;
+        color:black;
+        width: 90%;
+    }
+    
+    }
+    @media (min-width:500px) and (max-width:800px){
+        .winimg{
+            position: absolute;
+            width: 65%;
+            height: 30%;
+            top: 26%;
+            left: 17%;
+            
+        }
+        .playimg{
+            position: absolute;
+            width: 65%;
+            height: 30%;
+            top: 58%;
+            left: 17%;
+            
+        }
+        .shakeimg{
+            position: absolute;
+            width: 65%;
+            height: 30%;
+            top: 90%;
+            left: 17%;
+            
+        }
+        .a1{
+            position: absolute;
+            top: 124%;
+            font-size:26px ;
+            left:16% ;
+            font-weight: bold;
+            color: purple;
+        }
+        .a2{
+            position: absolute;
+            top:129.5% ;
+            font-size: 18px;
+            left: 6.5%;
+            color:#FF6600;
+        }
+        .a3{
+            position: absolute;
+            top:138.5% ;
+            font-size: 18px;
+            left: 6.5%;
+            color:black;
+            width: 87%;
+        }
+        .a4{
+            position: absolute;
+            top:165.5% ;
+            font-size: 18px;
+            left: 7%;
+            color:black;
+            width: 87%;
+        }
+        .a5{
+            position: absolute;
+            top:178.5% ;
+            font-size: 18px;
+            left: 7%;
+            color:black;
+        }
+        .a6{
+            position: absolute;
+            top:188% ;
+            font-size: 18px;
+            left: 7%;
+            color:black;
+            width: 89%;
+        }
+        .a7{
+            position: absolute;
+            top:201% ;
+            font-size: 18px;
+            left: 7%;
+            color:black;
+        }
+}
+
+@media (min-width:800px) and (max-width:1025px){
+    .winimg{
+        position: absolute;
+        width: 55%;
+        height: 30%;
+        top: 34%;
+        left: 21.5%;
+        
+    }
+    .playimg{
+        position: absolute;
+        width: 55%;
+        height: 30%;
+        top: 67%;
+        left: 21.5%;
+        
+    }
+    .shakeimg{
+        position: absolute;
+        width: 55%;
+        height: 30%;
+        top: 100%;
+        left: 21.5%;
+        
+    }
+    .a1{
+        position: absolute;
+        top: 133%;
+        font-size:40px ;
+        left:17% ;
+        font-weight: bold;
+        color: purple;
+    }
+    .a2{
+        position: absolute;
+        top:143% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:#FF6600;
+    }
+    .a3{
+        position: absolute;
+        top:156% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+        width: 87%;
+    }
+    .a4{
+        position: absolute;
+        top:196.5% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+        width: 87%;
+    }
+    .a5{
+        position: absolute;
+        top:216% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+    }
+    .a6{
+        position: absolute;
+        top:229.5% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+        width: 87%;
+    }
+    .a7{
+        position: absolute;
+        top:249% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+    }
+}
+@media (min-width:1025px) and (max-width:1281px){
+    .winimg{
+        position: absolute;
+        top: 34%;
+        width:25% ;
+        height:30% ;
+        left:8% ;
+    }
+    .playimg{
+        position: absolute;
+        top: 34%;
+        width:25% ;
+        height:30% ;
+        left:36% ;
+    }
+    .shakeimg{
+        position: absolute;
+        top:34%;
+        width:25% ;
+        height:30% ;
+        left:64% ;
+    }
+    .a1{
+        position: absolute;
+        top: 70%;
+        font-size:40px ;
+        left: 21% ;
+        font-weight: bold;
+        color: purple;
+    }
+    .a2{
+        position: absolute;
+        top:81% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:#FF6600;
+        width: 87%;
+    }
+    .a3{
+        position: absolute;
+        top:95% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+     width: 90%;
+    }
+    .a4{
+        position: absolute;
+        top:125.5% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+    }
+    .a5{
+        position: absolute;
+        top:145.1% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+    }
+    .a6{
+        position: absolute;
+        top:159.3% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+    }
+    .a7{
+        position: absolute;
+        top:173% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:black;
+        
+    }
+}
+@media (min-width:1281px) {
+    .winimg{
+        position: absolute;
+        top: 34%;
+        width:25% ;
+        height:30% ;
+        left:8% ;
+    }
+    .playimg{
+        position: absolute;
+        top: 34%;
+        width:25% ;
+        height:30% ;
+        left:36% ;
+    }
+    .shakeimg{
+        position: absolute;
+        top:34%;
+        width:25% ;
+        height:30% ;
+        left:64% ;
+    }  
+    .a1{
+        position: absolute;
+        top: 70%;
+        font-size:45px ;
+        left: 25% ;
+        font-weight: bold;
+        color: purple;
+    }
+    .a2{
+        position: absolute;
+        top:79% ;
+        font-size: 27.5px;
+        left: 7%;
+        color:#FF6600;
+    }
+    .a3{
+        position: absolute;
+        top:85% ;
+        font-size: 25px;
+        left: 7%;
+        color:black;
+        width: 87%;
+      
+    }
+    .a4{
+        position: absolute;
+        top:103.1% ;
+        font-size: 25px;
+        left: 7%;
+        color:black;
+        width: 87%;
+    }
+    .a5{
+        position: absolute;
+        top:113.5% ;
+        font-size: 25px;
+        left: 7%;
+        color:black;
+
+    }
+    .a6{
+        position: absolute;
+        top:120% ;
+        font-size: 25px;
+        left: 7%;
+        color:black;
+    }
+    .a7{
+        position: absolute;
+        top:130% ;
+        font-size: 25px;
+        left: 7%;
+        color:black;
+        
+    }
+}

@@ -1,0 +1,1110 @@
+@media (min-width:300px) and (max-width:500px){
+    .e1{
+        position: absolute;
+        font-size: 19px;
+        left: 0%;
+        top: 25%;
+        color:purple;
+        font-weight: bold;
+        width: 100%;
+    }
+    .e2{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 38.5%;
+        color: #FF6600;
+    }
+    .e3{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 55.5%;
+        color: #FF6600;
+    }
+    .e4{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 59.9%;
+        color: black;
+    }
+    .e5{
+        position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 66.3%;
+        left: 10%;
+        
+    }
+    .e6{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 99.5%;
+        color: #FF6600;
+    }
+    .e7{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 107%;
+        color: black;
+    }
+    .e8{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 111%;
+        color: black;
+    }
+    .e9{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 115%;
+        color: black;
+    }
+    .e10{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 119%;
+        color: black;
+    }
+    .e11{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 123%;
+        color: black;
+    }
+    .e12{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 127%;
+        color: black;
+    }
+    .e13{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 131%;
+        color: black;
+    }
+    .e14{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 135%;
+        color: black;
+    }
+    .e15{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 140%;
+        color: black;
+    }
+    .e16{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 144%;
+        color: black;
+    }
+    .e17{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 155%;
+        color: black;
+    }
+    .e17{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 155%;
+        color: black;
+    }
+    .e18{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 159%;
+        color: black;
+    }
+    .e19{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 163%;
+        color: black;
+    }
+    .e20{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 167%;
+        color: black;
+    }
+    .e21{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 171%;
+        color: black;
+    }
+    .e22{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 181.5%;
+        color: black;
+    }
+    .btn{
+        position: absolute;
+        width: 30%;
+        height: 8%;
+        left: 7%;
+        top: 190%;
+        color: white;
+    }
+    .e23{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 200.5%;
+        color: black;
+    }
+    .e24{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 204.5%;
+        color: black;
+    }
+    .e25{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 212.5%;
+        color: black;
+    }
+    .e26{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 220%;
+        color: black;
+    }
+    .e27{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 243.5%;
+        color: black;
+    }
+    .e28{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 254.5%;
+        color: black;
+    }
+    .e29{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 277.4%;
+        color: black;
+    }
+    .e30{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 281.3%;
+        color: black;
+        width: 91%;
+    }
+}
+@media (min-width:500px) and (max-width:800px){
+    .e1{
+        position: absolute;
+        font-size: 22.5px;
+        left: 0%;
+        top: 25%;
+        color:purple;
+        font-weight: bold;
+    }
+    .e2{
+        position: absolute;
+        font-size: 18px;
+        left: 3%;
+        top: 36%;
+        color: #FF6600;
+    }
+    .e3{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 48.6%;
+        color: #FF6600;
+    }
+    .e4{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 53.7%;
+        color: black;
+    }
+    .e5{
+        position: absolute;
+        width: 65%;
+        height: 30%;
+        top: 61%;
+        left: 17%;   
+    }
+    .e6{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 94%;
+        color: #FF6600;
+    }
+    .e7{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 102.4%;
+        color: black;
+    }
+    .e8{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 107.5%;
+        color: black;
+    }
+    .e9{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 112.5%;
+        color: black;
+    }
+    .e10{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 117.5%;
+        color: black;
+    }
+    .e11{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 122.5%;
+        color: black;
+    }
+    .e12{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 127.5%;
+        color: black;
+    }
+    .e13{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 132.5%;
+        color: black;
+    }
+    .e14{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 137.5%;
+        color: black;
+    }
+    .e15{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 142.5%;
+        color: black;
+    }
+    .e16{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 147.5%;
+        color: black;
+        width: 86%;
+    }
+    .e17{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 156%;
+        color: black;
+    }
+    .e18{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 161%;
+        color: black;
+    }
+    .e19{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 166%;
+        color: black;
+    }
+    .e20{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 171%;
+        color: black;
+    }
+    .e21{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 176%;
+        color: black;
+    }
+    .btn{
+        position: absolute;
+        width: 25%;
+        height: 8%;
+        left: 7%;
+        top: 185.5%;
+        color: white;
+    }
+    .e23{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 196%;
+        color: black;
+    }
+    .e24{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 201%;
+        color: black;
+    }
+    .e25{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 209.5%;
+        color: black;
+    }
+    .e26{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 214.3%;
+        color: black;
+    }
+    .e27{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 234%;
+        color: black;
+    }
+    .e28{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 243%;
+        color: black;
+    }
+    .e29{
+        position: absolute;
+        font-size: 18px;
+        left: 7%;
+        top: 262.5%;
+        color: black;
+    }
+    .e30{
+        position: absolute;
+        font-size: 17px;
+        left: 7%;
+        top: 267.5%;
+        color: black;
+        width: 91%;
+    }
+}
+@media (min-width:800px) and (max-width:1025px){
+    .e1{
+        position: absolute;
+        font-size: 32px;
+        left: 0%;
+        top: 31%;
+        color:purple;
+        font-weight: bold;
+    }
+    .e2{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 46%;
+        color: #FF6600;
+        width: 90%;
+    }
+    .e3{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 64%;
+        color: #FF6600;
+    }
+    .e4{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 71%;
+        color: black;
+    }
+    .e5{
+        position: absolute;
+        width: 55%;
+        height: 30%;
+        top: 81%;
+        left: 21%;   
+    }
+    .e6{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 115%;
+        color: #FF6600;
+    }
+    .e7{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 127.5%;
+        color: black;
+    }
+    .e8{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 135%;
+        color: black;
+    }
+    .e9{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 143%;
+        color: black;
+    }
+    .e10{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 151%;
+        color: black;
+    }
+    .e11{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 159%;
+        color: black;
+    }
+    .e12{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 167%;
+        color: black;
+    }
+    .e13{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 175%;
+        color: black;
+    }
+    .e14{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 183%;
+        color: black;
+    }
+    .e15{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 191%;
+        color: black;
+    }
+    .e16{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 199%;
+        color: black;
+        width: 86%;
+    }
+    .e17{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 212%;
+        color: black;
+    }
+    .e18{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 220%;
+        color: black;
+    }
+    .e19{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 228%;
+        color: black;
+    }
+    .e20{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 236%;
+        color: black;
+    }
+    .e21{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 244%;
+        color: black;
+    }
+    .btn{
+        position: absolute;
+        width: 22%;
+        height: 10%;
+        left: 7%;
+        top: 258%;
+        color: white;
+        font-size: 15px;
+    }
+    .e23{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 271%;
+        color: black;
+    }
+    .e24{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 279%;
+        color: black;
+    }
+    .e25{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 293.5%;
+        color: black;
+    }
+    .e26{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 300.5%;
+        color: black;
+    }
+    .e27{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 329.5%;
+        color: black;
+    }
+    .e28{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 342%;
+        color: black;
+    }
+    .e29{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 370.5%;
+        color: black;
+    }
+    .e30{
+        position: absolute;
+        font-size: 27.5px;
+        left: 7%;
+        top: 377%;
+        color: black;
+        width: 91%;
+    }
+}
+@media (min-width:1025px) and (max-width:1281px){
+    .e1{
+        position: absolute;
+        font-size: 40px;
+        left: 3%;
+        top: 31%;
+        color:purple;
+        font-weight: bold;
+    }
+    .e2{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 50.5%;
+        color: #FF6600;
+        width: 60%;
+    }
+    .e3{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 75.3%;
+        color: #FF6600;
+    }
+    .e4{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 83%;
+        color: black;
+    }
+    .e5{
+        position: absolute;
+        width: 25%;
+        height: 60%;
+        top: 52.8%;
+        left: 68%;   
+    }
+    .e6{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 91%;
+        color: #FF6600;
+        width: 60%;
+    }
+    .e7{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 104%;
+        color: black;
+    }
+    .e8{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 111.5%;
+        color: black;
+    }
+    .e9{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 118.5%;
+        color: black;
+    }
+    .e10{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 125.5%;
+        color: black;
+    }
+    .e11{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 132.5%;
+        color: black;
+    }
+    .e12{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 139.5%;
+        color: black;
+    }
+    .e13{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 146.5%;
+        color: black;
+    }
+    .e14{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 153.5%;
+        color: black;
+    }
+    .e15{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 160.5%;
+        color: black;
+    }
+    .e16{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 167.5%;
+        color: black;
+        width:60%;
+    }
+    .e17{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 180%;
+        color: black;
+    }
+    .e18{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 187%;
+        color: black;
+    }
+    .e19{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 194%;
+        color: black;
+    }
+    .e20{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 201%;
+        color: black;
+    }
+    .e21{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 208%;
+        color: black;
+    }
+    .btn{
+        position: absolute;
+        width: 15%;
+        height: 10%;
+        left: 3%;
+        top: 222%;
+        color: white;
+        font-size: 25px;
+    }
+    .e23{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 235%;
+        color: black;
+    }
+    .e24{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 242%;
+        color: black;
+    }
+    .e25{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 249%;
+        color: black;
+    }
+    .e26{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 256%;
+        color: black;
+        width:90% ;
+    }
+    .e27{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 279.8%;
+        color: black;
+        width: 90%;
+    }
+    .e28{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 292.5%;
+        color: black;
+        width: 90%;
+    }
+    .e29{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 316%;
+        color: black;
+    }
+    .e30{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 323%;
+        color: black;
+        
+    }
+}
+@media (min-width:1281px) {
+    .e1{
+        position: absolute;
+        font-size: 40px;
+        left: 3%;
+        top: 31%;
+        color:purple;
+        font-weight: bold;
+    }
+    .e2{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 46.3%;
+        color: #FF6600;
+        width: 60%;
+    }
+    .e3{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 60%;
+        color: #FF6600;
+    }
+    .e4{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 65.5%;
+        color: black;
+    }
+    .e5{
+        position: absolute;
+        width: 25%;
+        height: 60%;
+        top: 52.8%;
+        left: 68%;   
+    }
+    .e6{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 71.5%;
+        color: #FF6600;
+        width: 60%;
+    }
+    .e7{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 78%;
+        color: black;
+    }
+    .e8{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 84%;
+        color: black;
+    }
+    .e9{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 90%;
+        color: black;
+    }
+    .e10{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 96%;
+        color: black;
+    }
+    .e11{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 102%;
+        color: black;
+    }
+    .e12{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 108%;
+        color: black;
+    }
+    .e13{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 114%;
+        color: black;
+    }
+    .e14{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 120%;
+        color: black;
+    }
+    .e15{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 126%;
+        color: black;
+    }
+    .e16{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 132%;
+        color: black;
+        width:60%;
+    }
+    .e17{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 142%;
+        color:black;
+    }
+    .e18{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 148%;
+        color: black;
+    }
+    .e19{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 154%;
+        color: black;
+    }
+    .e20{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 160%;
+        color: black;
+    }
+    .e21{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 166%;
+        color: black;
+    }
+    .btn{
+        position: absolute;
+        width: 12%;
+        height: 10%;
+        left: 3%;
+        top: 177%;
+        color: white;
+        font-size: 25px;
+    }
+    .e23{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 189.5%;
+        color: black;
+    }
+    .e24{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 195.5%;
+        color: black;
+    }
+    .e25{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 201.5%;
+        color: black;
+    }
+    .e26{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 207.5%;
+        color: black;
+        width:90% ;
+    }
+    .e27{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 221.5%;
+        color: black;
+        width: 90%;
+    }
+    .e28{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 227.5%;
+        color: black;
+        width: 90%;
+    }
+    .e29{
+        position: absolute;
+        font-size: 25px;
+        left: 3%;
+        top: 241.5%;
+        color: black;
+    }
+    .e30{
+        position: absolute;
+        font-size: 27.5px;
+        left: 3%;
+        top: 247.5%;
+        color: black;
+        width: 80%;
+        
+    }
+}

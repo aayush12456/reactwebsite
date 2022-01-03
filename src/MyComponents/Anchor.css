@@ -1,0 +1,435 @@
+@media (min-width:300px) and (max-width:500px){
+    .d1{
+        position: absolute;
+        font-size: 21px;
+        left: 28.5%;
+        top: 25%;
+        color:purple;
+        font-weight: bold;
+    }
+    .d2{
+        position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 31%;
+        left: 10%;
+    }
+    .d3{
+        position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 63%;
+        left: 10%;
+    }
+    .d4{
+        position: absolute;
+        top: 96.3%;
+    font-size: 17px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d5{
+        position: absolute;
+        top: 126.5%;
+    font-size: 17px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d6{
+        position: absolute;
+        top: 160.2%;
+    font-size: 17px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d7{
+        position: absolute;
+        top: 190.5%;
+    font-size: 17px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d8{
+        position: absolute;
+        top: 198.7%;
+    font-size: 17px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d9{
+        position: absolute;
+        top: 229%;
+    font-size: 17px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d10{
+        position: absolute;
+        top: 253%;
+    font-size: 17px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d11{
+        position: absolute;
+        top: 268%;
+    font-size: 17px;
+    color:purple;
+    left: 7%;
+    }
+}
+@media (min-width:500px) and (max-width:800px){
+    .d1{
+        position: absolute;
+        font-size: 26px;
+        left: 33%;
+        top: 26%;
+        color:purple;
+        font-weight: bold;
+    }
+    .d2{
+        position: absolute;
+        width: 65%;
+        height: 30%;
+        top: 34%;
+        left: 17%;
+    }
+    .d3{
+        position: absolute;
+        width: 65%;
+        height: 30%;
+        top: 66%;
+        left: 17%;
+    }
+    .d4{
+        position: absolute;
+        top: 100%;
+    font-size: 18px;
+    color: #FF6600;
+    width: 87%;
+    left: 7%;
+    }
+    .d5{
+        position: absolute;
+        top: 124%;
+    font-size: 18px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d6{
+        position: absolute;
+        top: 151.7%;
+    font-size: 18px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d7{
+        position: absolute;
+        top: 175.7%;
+    font-size: 18px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d8{
+        position: absolute;
+        top: 182%;
+    font-size: 18px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d9{
+        position: absolute;
+        top: 206.5%;
+    font-size: 18px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d10{
+        position: absolute;
+        top: 227.5%;
+    font-size: 18px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d11{
+        position: absolute;
+        top: 238%;
+    font-size: 17px;
+    color:purple;
+    left: 7%;
+    }
+}
+@media (min-width:800px) and (max-width:1025px){
+    .d1{
+        position: absolute;
+        font-size: 40px;
+        left: 32.7%;
+        top: 31%;
+        color:purple;
+        font-weight: bold;
+    }
+    .d2{
+        position: absolute;
+        width: 55%;
+        height: 30%;
+        top: 43%;
+        left: 23%;
+    }
+    .d3{
+        position: absolute;
+        width: 55%;
+        height: 30%;
+        top: 76%;
+        left: 23%;
+    }
+    .d4{
+        position: absolute;
+        top: 111%;
+    font-size: 27.5px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d5{
+        position: absolute;
+        top: 146.5%;
+    font-size: 27.5px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d6{
+        position: absolute;
+        top: 188%;
+    font-size: 27.5px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d7{
+        position: absolute;
+        top: 222%;
+    font-size: 27.5px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d8{
+        position: absolute;
+        top: 229%;
+    font-size: 27.5px;
+    color: #FF6600;
+    width: 90%;
+    left: 7%;
+    }
+    .d9{
+        position: absolute;
+        top: 264.5%;
+    font-size: 27.5px;
+    color:black;
+    width: 90%;
+    left: 7%;
+    }
+    .d10{
+        position: absolute;
+        top: 295.5%;
+    font-size: 27.5px;
+    color:#FF6600 ;
+    width: 90%;
+    left: 7%;
+    }
+    .d11{
+        position: absolute;
+        top: 308%;
+    font-size: 27.5px;
+    color:purple;
+    left: 7%;
+    }
+}
+@media (min-width:1025px) and (max-width:1281px){
+    .d1{
+        position: absolute;
+        font-size: 40px;
+        left: 7%;
+        top: 31.5%;
+        color:purple;
+        font-weight: bold;
+    }
+    .d2{
+        position: absolute;
+        width: 25%;
+        height: 70%;
+        top: 31.5%;
+        left: 67%;
+    }
+    .d3{
+        position: absolute;
+        width: 25%;
+        height: 70%;
+        top: 105%;
+        left: 67%;
+    }
+    .d4{
+        position: absolute;
+        top: 42%;
+    font-size: 27.5px;
+    color: #FF6600;
+    width: 55%;
+    left: 7%;
+    }
+    .d5{
+        position: absolute;
+        top: 89%;
+    font-size: 27.5px;
+    color:black;
+    width: 55%;
+    left: 7%;
+    }
+    .d6{
+        position: absolute;
+        top: 142%;
+    font-size: 27.5px;
+    color: #FF6600;
+    width:55%;
+    left: 7%;
+    }
+    .d7{
+        position: absolute;
+        top: 189%;
+    font-size: 27.5px;
+    color:black;
+    width: 55%;
+    left: 7%;
+    }
+    .d8{
+        position: absolute;
+        top: 203%;
+    font-size: 27.5px;
+    color: #FF6600;
+    width: 55%;
+    left: 7%;
+    }
+    .d9{
+        position: absolute;
+        top: 250%;
+    font-size: 27.5px;
+    color:black;
+    width: 55%;
+    left: 7%;
+    }
+    .d10{
+        position: absolute;
+        top: 292%;
+    font-size: 27.5px;
+    color:#FF6600 ;
+    width: 55%;
+    left: 7%;
+    }
+    .d11{
+        position: absolute;
+        top: 311%;
+    font-size: 27.5px;
+    color:purple;
+    left: 7%;
+    }
+}
+@media (min-width:1281px) {
+    .d1{
+        position: absolute;
+        font-size: 40px;
+        left: 5%;
+        top: 29%;
+        color:purple;
+        font-weight: bold;
+    }
+    .d2{
+        position: absolute;
+        width: 25%;
+        height: 70%;
+        top: 31.5%;
+        left: 67%;
+    }
+    .d3{
+        position: absolute;
+        width: 25%;
+        height: 70%;
+        top: 105%;
+        left: 67%;
+    }
+    .d4{
+        position: absolute;
+        top: 36.5%;
+    font-size: 25px;
+    color: #FF6600;
+    width: 55%;
+    left: 5%;
+    }
+    .d5{
+        position: absolute;
+        top: 59%;
+    font-size: 25px;
+    color:black;
+    width: 55%;
+    left: 5%;
+    }
+    .d6{
+        position: absolute;
+        top: 85.5%;
+    font-size: 25px;
+    color: #FF6600;
+    width:55%;
+    left: 5%;
+    }
+    .d7{
+        position: absolute;
+        top: 108%;
+    font-size: 25px;
+    color:black;
+    width: 55%;
+    left: 5%;
+    }
+    .d8{
+        position: absolute;
+        top: 114%;
+    font-size: 25px;
+    color: #FF6600;
+    width: 55%;
+    left: 5%;
+    }
+    .d9{
+        position: absolute;
+        top: 136%;
+    font-size: 25px;
+    color:black;
+    width: 55%;
+    left: 5%;
+    }
+    .d10{
+        position: absolute;
+        top: 158.5%;
+    font-size: 25px;
+    color:#FF6600 ;
+    width: 55%;
+    left: 5%;
+    }
+    .d11{
+        position: absolute;
+        top: 168%;
+    font-size: 27.5px;
+    color:purple;
+    left: 7%;
+    }
+}
